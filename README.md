@@ -1,16 +1,84 @@
-## Hi there 👋
+# Привет, меня зовут Евгений 👋
 
-<!--
-**eeXaiLee/eeXaiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Python Backend-разработчик. Окончил расширенный курс «Python-разработчик» от Яндекс.Практикум и продолжаю развиваться в backend-разработке через pet-проекты и самостоятельную практику.
 
-Here are some ideas to get you started:
+Во время обучения реализовал несколько проектов на Django и FastAPI, получил опыт проектирования REST API, работы с базами данных, тестирования, контейнеризации и деплоя приложений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас ищу возможность перейти в коммерческую backend-разработку и развиваться в этом направлении.
+
+## Стек и инструменты
+
+**Backend:**
+Python, Django, Django REST Framework, FastAPI
+
+**Базы данных:**
+PostgreSQL, SQLite, SQLAlchemy
+
+**Тестирование:**
+pytest, unittest
+
+**DevOps и инструменты:**
+Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, Git, GitHub
+
+**Дополнительно:**
+REST API, JWT-аутентификация, ORM, Alembic, CI/CD
+
+## Что изучаю и чем интересуюсь
+
+Дополнительно уделял внимание алгоритмам и структурам данных: читал книгу Адитьи Бхаргавы «Грокаем алгоритмы. 2-е издание» и решал задачи на LeetCode.
+
+Также периодически читаю статьи на Хабре и смотрю разборы практических кейсов и материалов по backend-разработке на YouTube.
+
+## Проекты
+
+### 🍲 Foodgram
+
+Сервис для публикации рецептов, подписок на авторов и формирования списка покупок.
+
+Что реализовано:
+
+* REST API на Django REST Framework
+* JWT-аутентификация
+* работа с PostgreSQL
+* Docker и docker-compose
+* деплой проекта
+* CI/CD через GitHub Actions
+* подключение SPA-фронтенда
+
+🔗 [Репозиторий](https://github.com/eeXaiLee/foodgram)
+
+---
+
+### 🐱 QRKot
+
+API-сервис на FastAPI для благотворительного фонда.
+
+Что реализовано:
+
+* FastAPI
+* SQLAlchemy
+* Alembic
+* асинхронная логика распределения пожертвований
+* валидация и работа с БД
+
+🔗 [Репозиторий](https://github.com/eeXaiLee/cat-charity-2)
+
+---
+
+### 🐾 Kittygram
+
+Веб-приложение для публикации фотографий питомцев.
+
+Что реализовано:
+
+* REST API
+* Docker
+* Nginx
+* деплой проекта
+
+🔗 [Репозиторий](https://github.com/eeXaiLee/kittygram_final)
+
+## 📫 Контакты
+
+[Telegram](https://t.me/eeXaiLee)
+[HH.ru](https://tyumen.hh.ru/resume/3bfa4138ff0f8865780039ed1f496c4c62756a)
