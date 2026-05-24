@@ -46,6 +46,8 @@ REST API, JWT-аутентификация, ORM, Alembic, CI/CD
 
 🔗 [Репозиторий](https://github.com/eeXaiLee/booking_seats)
 
+---
+
 ### 🍲 Foodgram
 
 Сервис для публикации рецептов, подписок на авторов и формирования списка покупок.
